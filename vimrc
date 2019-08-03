@@ -153,7 +153,10 @@ call plug#end()
 
 color snazzy
 let g:SnazzyTransparent = 1
-
+"===
+"=== vim hotkey
+"===
+source ~/.vim/snippits.vim
 
 " ===
 " === NERDTree
