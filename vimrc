@@ -132,6 +132,8 @@ Plug 'vim-scripts/indentpython.vim'
 Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
 Plug 'dhruvasagar/vim-table-mode', { 'on': 'TableModeToggle' }
 Plug 'vimwiki/vimwiki'
+Plug 'godlygeek/tabular'
+Plug 'plasticboy/vim-markdown'
 
 " Bookmarks
 Plug 'kshenoy/vim-signature'
